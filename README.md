@@ -1,5 +1,7 @@
-# 757 RUG - the R Users Group for Norfolk VA BeachRead
+# 757 RUG - the R Users Group for Norfolk - Virginia Beach
 
 ## Welcome to this repository
 
-757RUG is starting to get involved in Kaggle competitions. Stay tuned to this repo for work supporting the Group
+The 757RUG is getting involved in Kaggle competitions this Fall.
+
+Stay tuned to this repo for my work supporting the Group.
